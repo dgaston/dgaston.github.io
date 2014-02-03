@@ -1,7 +1,7 @@
 dgaston.github.io
 =================
 
-<p>I am a post-dcotoral fellow currently working with the <a href="http://igniteproject.ca/">IGNITE</a> project studying the causes of, and
+<p>I am a post-doctoral fellow currently working with the <a href="http://igniteproject.ca/">IGNITE</a> project studying the causes of, and
 developing therapeutics for, orphan genetic diseases found in families living in Atlantic Canada. In addition to performing
 routine genomic/bioinformatic analyses, I am also developing new tools for genomics researchers. My focus is currently
 on data management/visualization and gene prioritization.</p>
