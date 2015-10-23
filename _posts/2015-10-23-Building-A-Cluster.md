@@ -54,9 +54,9 @@ NGS data for, but worst-case scenario is the same length of time we need to keep
 pathology reports and FFPE tissue-blocks which is roughly 20-25 years. Of course
 we will turn over compute equipment several times over that time frame, but we wanted
 lots of room to grow. Luckily for us a local company offers a really great storage
-solution that fit our needs perfectly. [45 Drives](www.45drives.com) with their Storinator
+solution that fit our needs perfectly. <www.45drives.com> with their Storinator
 product is absolutely fantastic, and they are only a few hours away by car. They started
-out making this product for [Backblaze](www.backblaze.com) but are now doing their
+out making this product for <www.backblaze.com> but are now doing their
 own thing and selling it as a fully supported product. The Storinator is seeing increasing
 usage in genomics centers and is hands down the most cost-effective and performant
 device I've seen in this space. We went with the S45-Turbo solution. This means
