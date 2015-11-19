@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Cluster
+title: Building a Cluster Part 1
 ---
 
 As part of my job as a Clinical Bioinformatician getting a Next-Generation
