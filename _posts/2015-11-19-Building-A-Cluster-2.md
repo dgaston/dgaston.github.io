@@ -21,5 +21,5 @@ we should have a blazing fast cluster.
 Each node fits our requirements for CPU and RAM, and has a few TBs of local storage for
 fast scratch, temporary files, genomics resources, etc.
 
-Now it is all about planning the OS and how to hook everything up together in a kick
-ass cluster.
+Now it is all about planning the OS and how to hook everything up together in an
+awesome cluster.
