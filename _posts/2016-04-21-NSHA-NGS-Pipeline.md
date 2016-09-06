@@ -11,7 +11,14 @@ Variants were  annotated with snpEff[12] and VCFAnno[13] from a variety of data
 sources including dbSNP[14], 1000 Genomes[15], The Exome Sequencing Project's EVS[16],
 Ensembl[17], ClinVar[18], and COSMIC[19].
 
-##References:
+#Standard Filters
+
+Only variants below a 1% allele frequency in any population, with an estimated
+somatic allele frequency above 2% and with a read depth greater than 500 bp, and
+with a functional impact on the protein (missense, nonsense mutations) or a known
+clinical association were kept in the analysis.
+
+#References:
 
 1. [BWA](https://)
 2. [Picard](https://)  
@@ -27,7 +34,7 @@ Ensembl[17], ClinVar[18], and COSMIC[19].
 12. [snpEff](https://)
 13. [VCFAnno](https://)
 14. [dbSNP](https://)
-15. [100 Genomes](https://)
+15. [1000 Genomes](https://)
 16. [EVS](https://)
 17. [Ensemble](https://)
 18. [ClinVar](https://)
